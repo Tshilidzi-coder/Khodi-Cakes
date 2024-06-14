@@ -19,7 +19,7 @@
 .home {
     min-height: 100vh;
     width: 100%;
-    background: url(/cakeimages/cake-5690186_1920.jpg) no-repeat center center fixed;
+    background: url(./cakeimages/cake-5690186_1920.jpg) no-repeat center center fixed;
     background-attachment: fixed;
     background-size: cover;
     margin: 0;
@@ -572,7 +572,7 @@ nav {
 
     .home {
         min-height: auto;
-        background-image: url(/cakeimages/267679475_1077943819727348_9199145087912101778_n.jpg);
+        background-image: url(./cakeimages/267679475_1077943819727348_9199145087912101778_n.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-attachment: fixed;
