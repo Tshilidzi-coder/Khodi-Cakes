@@ -535,6 +535,11 @@ nav {
         margin-bottom: 20px;
     }
 
+    nav{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
     .list{
         display: none;
     }
