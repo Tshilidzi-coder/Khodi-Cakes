@@ -529,11 +529,10 @@ nav {
     }
     
     .map{
-        width: 100%;
+        width: 60px;
         height: 400px;
         margin-top: 20px;
         margin-bottom: 20px;
-        margin-right: auto;
     }
 
     nav{
