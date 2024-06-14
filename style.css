@@ -584,7 +584,7 @@ nav {
     }
 
     .home {
-        min-height: 100vh;
+        min-height: auto;
         width: 100%;
         background-image: url(./cakeimages/267679475_1077943819727348_9199145087912101778_n.jpg);
         background-repeat: no-repeat;
