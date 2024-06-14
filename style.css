@@ -577,12 +577,12 @@ nav {
     }
 
     .home {
-        min-height: auto;
-        width: auto;
+        min-height: 100vh;
+        width: 100px;
         background-image: url(./cakeimages/267679475_1077943819727348_9199145087912101778_n.jpg);
         background-repeat: no-repeat;
-        background-position: top;
-        background-attachment: fixed;
+        background-position: center;
+        background-attachment:fixed;
         background-size: contain; /* or contain, auto, specific dimensions */
     }
     
