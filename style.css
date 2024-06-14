@@ -531,7 +531,7 @@ nav {
     
     .map{
         width: 100%; /* Use full width of the container */
-        max-width: 300px;  /* Limit maximum width */
+        max-width: 100px;  /* Limit maximum width */
         height: auto;  /* Adjust height proportionally */
         margin-top: 20px;
         margin-bottom: 20px;
@@ -589,7 +589,7 @@ nav {
         background-image: url(./cakeimages/267679475_1077943819727348_9199145087912101778_n.jpg);
         background-repeat: no-repeat;
         background-position: top;
-        background-attachment:fixed;
+        background-attachment: fixed;
         background-size: contain;
     }
     *{
