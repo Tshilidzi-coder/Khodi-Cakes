@@ -566,6 +566,7 @@ nav {
         align-items: center;
         margin: 0 auto;
         opacity: 85%;
+        display: none;
     }
 
     .socialIcons{
