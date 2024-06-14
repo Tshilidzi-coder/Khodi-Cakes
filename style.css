@@ -529,7 +529,7 @@ nav {
     }
     
     .map{
-        width: 100vh;
+        width: auto;
         height: 300vh;
         margin-top: 15px;
         margin-bottom: 15px;
@@ -577,7 +577,7 @@ nav {
 
     .home {
         min-height: auto;
-        width: 100vh;
+        width: auto;
         background-image: url(./cakeimages/267679475_1077943819727348_9199145087912101778_n.jpg);
         background-repeat: no-repeat;
         background-position: top;
