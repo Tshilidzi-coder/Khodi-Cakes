@@ -572,11 +572,11 @@ nav {
 
     .home {
         min-height: auto;
-        background-image: url(./cakeimages/267679475_1077943819727348_9199145087912101778_n.jpg);
+        background-image: url(./cakeimages/Snapinsta.app_316560633_478346071096825_7730842256059800392_n_1080.jpg);
         background-repeat: no-repeat;
-        background-position: center center;
+        background-position: top;
         background-attachment: fixed;
-        background-size: cover; /* or contain, auto, specific dimensions */
+        background-size: contain; /* or contain, auto, specific dimensions */
     }
     
     
