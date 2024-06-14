@@ -531,8 +531,8 @@ nav {
     .map{
         width: auto;
         height: 250vh;
-        margin-top: 15px;
-        margin-bottom: 15px;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 
     nav{
@@ -566,7 +566,7 @@ nav {
     }
 
     .socialIcons{
-        display: flexbox;
+        display: flex;
         justify-content: center;
         align-items: center;
         margin-left: auto;
@@ -581,9 +581,9 @@ nav {
         width: 100px;
         background-image: url(./cakeimages/267679475_1077943819727348_9199145087912101778_n.jpg);
         background-repeat: no-repeat;
-        background-position: center;
+        background-position: top;
         background-attachment:fixed;
-        background-size: contain; /* or contain, auto, specific dimensions */
+        background-size: contain;
     }
     
     
