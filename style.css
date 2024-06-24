@@ -28,14 +28,15 @@
 }
 
 nav {
+    position: sticky;
+    top: 0;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: sticky;
-    top: 0;
+
 }
 
 html{
